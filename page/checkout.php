@@ -33,13 +33,13 @@ require_once './templetes/nav.php';
 	          		<div class="col-md-6">
 	                <div class="form-group">
 	                	<label for="firstname">Firt Name</label>
-	                  <input type="text" class="form-control" placeholder="">
+	                  <input type="text" class="form-control" placeholder="" required>
 	                </div>
 	              </div>
 	              <div class="col-md-6">
 	                <div class="form-group">
 	                	<label for="lastname">Last Name</label>
-	                  <input type="text" class="form-control" placeholder="">
+	                  <input type="text" class="form-control" placeholder="" required>
 	                </div>
                 </div>
                 <div class="w-100"></div>
@@ -63,38 +63,38 @@ require_once './templetes/nav.php';
 		            <div class="col-md-6">
 		            	<div class="form-group">
 	                	<label for="streetaddress">Street Address</label>
-	                  <input type="text" class="form-control" placeholder="House number and street name">
+	                  <input type="text" class="form-control" placeholder="House number and street name" required>
 	                </div>
 		            </div>
 		            <div class="col-md-6">
 		            	<div class="form-group">
-	                  <input type="text" class="form-control" placeholder="Appartment, suite, unit etc: (optional)">
+	                  <input type="text" class="form-control" placeholder="Appartment, suite, unit etc: (optional)" required>
 	                </div>
 		            </div>
 		            <div class="w-100"></div>
 		            <div class="col-md-6">
 		            	<div class="form-group">
 	                	<label for="towncity">Town / City</label>
-	                  <input type="text" class="form-control" placeholder="">
+	                  <input type="text" class="form-control" placeholder="" required>
 	                </div>
 		            </div>
 		            <div class="col-md-6">
 		            	<div class="form-group">
 		            		<label for="postcodezip">Postcode / ZIP *</label>
-	                  <input type="text" class="form-control" placeholder="">
+	                  <input type="text" class="form-control" placeholder="" required>
 	                </div>
 		            </div>
 		            <div class="w-100"></div>
 		            <div class="col-md-6">
 	                <div class="form-group">
 	                	<label for="phone">Phone</label>
-	                  <input type="text" class="form-control" placeholder="">
+	                  <input type="text" class="form-control" placeholder=""required>
 	                </div>
 	              </div>
 	              <div class="col-md-6">
 	                <div class="form-group">
 	                	<label for="emailaddress">Email Address</label>
-	                  <input type="text" class="form-control" placeholder="">
+	                  <input type="text" class="form-control" placeholder="" required>
 	                </div>
                 </div>
                 <div class="w-100"></div>

@@ -67,7 +67,7 @@ if(!isset($_SESSION['loggedin'])){
 								<a class="dropdown-item" href="./page/checkout.php">Checkout</a>
 							</div>
 						</li>
-						<li class="nav-item cta cta-colored"><a href="./page/./page/cart.php" class="nav-link"><span
+						<li class="nav-item cta cta-colored"><a href="./page/cart.php" class="nav-link"><span
 									class="icon-shopping_cart"></span>[0]</a></li>
 
 					</ul>
@@ -229,7 +229,7 @@ if(!isset($_SESSION['loggedin'])){
 								<p class="bottom-area d-flex px-3">
 									<a href="./page/cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 												class="ion-ios-add ml-1"></i></span></a>
-									<a href="./page/beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+									<a href="./page/detail_cetaphil.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 												class="ion-ios-cart ml-1"></i></span></a>
 								</p>
 							</div>
@@ -260,7 +260,7 @@ if(!isset($_SESSION['loggedin'])){
 								<p class="bottom-area d-flex px-3">
 									<a href="./page/cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 												class="ion-ios-add ml-1"></i></span></a>
-									<a href="./page/beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+									<a href="./page/detail_loreal.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 												class="ion-ios-cart ml-1"></i></span></a>
 								</p>
 							</div>
@@ -291,7 +291,7 @@ if(!isset($_SESSION['loggedin'])){
 								<p class="bottom-area d-flex px-3">
 									<a href="./page/cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 												class="ion-ios-add ml-1"></i></span></a>
-									<a href="./page/beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+									<a href="./page/detail_colgate.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 												class="ion-ios-cart ml-1"></i></span></a>
 								</p>
 							</div>
@@ -322,7 +322,7 @@ if(!isset($_SESSION['loggedin'])){
 								<p class="bottom-area d-flex px-3">
 									<a href="./page/cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 												class="ion-ios-add ml-1"></i></span></a>
-									<a href="./page/beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+									<a href="./page/detail_scarlet.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 												class="ion-ios-cart ml-1"></i></span></a>
 								</p>
 							</div>

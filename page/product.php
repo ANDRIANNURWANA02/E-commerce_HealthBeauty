@@ -73,7 +73,7 @@ require_once './templetes/nav.php';
 						<p class="bottom-area d-flex px-3">
 							<a href="cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 										class="ion-ios-add ml-1"></i></span></a>
-							<a href="beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+							<a href="detail_loreal.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 										class="ion-ios-cart ml-1"></i></span></a>
 						</p>
 					</div>
@@ -100,7 +100,7 @@ require_once './templetes/nav.php';
 						<p class="bottom-area d-flex px-3">
 							<a href="cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 										class="ion-ios-add ml-1"></i></span></a>
-							<a href="beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+							<a href="detail_colgate.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 										class="ion-ios-cart ml-1"></i></span></a>
 						</p>
 					</div>
@@ -127,7 +127,7 @@ require_once './templetes/nav.php';
 						<p class="bottom-area d-flex px-3">
 							<a href="cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 										class="ion-ios-add ml-1"></i></span></a>
-							<a href="beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+							<a href="detail_scarlet.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 										class="ion-ios-cart ml-1"></i></span></a>
 						</p>
 					</div>
@@ -156,7 +156,7 @@ require_once './templetes/nav.php';
 						<p class="bottom-area d-flex px-3">
 							<a href="cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 										class="ion-ios-add ml-1"></i></span></a>
-							<a href="beli_sekarang.php" class="buy-now text-center py-2" name="beli_Sekarang">Beli Sekarang<span><i
+							<a href="detail_masker.php" class="buy-now text-center py-2" name="beli_Sekarang">Beli Sekarang<span><i
 										class="ion-ios-cart ml-1"></i></span></a>
 						</p>
 					</div>
@@ -183,7 +183,7 @@ require_once './templetes/nav.php';
 						<p class="bottom-area d-flex px-3">
 							<a href="cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 										class="ion-ios-add ml-1"></i></span></a>
-							<a href="beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+							<a href="detail_imboost.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 										class="ion-ios-cart ml-1"></i></span></a>
 						</p>
 					</div>
@@ -210,7 +210,7 @@ require_once './templetes/nav.php';
 						<p class="bottom-area d-flex px-3">
 							<a href="cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 										class="ion-ios-add ml-1"></i></span></a>
-							<a href="beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+							<a href="detail_hendbody.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 										class="ion-ios-cart ml-1"></i></span></a>
 						</p>
 					</div>
@@ -237,7 +237,7 @@ require_once './templetes/nav.php';
 						<p class="bottom-area d-flex px-3">
 							<a href="cart.php" class="add-to-cart text-center py-2 mr-1"><span>Tambah Troli <i
 										class="ion-ios-add ml-1"></i></span></a>
-							<a href="beli_sekarang.php" class="buy-now text-center py-2">Beli Sekarang<span><i
+							<a href="detail_mastin.php" class="buy-now text-center py-2">Beli Sekarang<span><i
 										class="ion-ios-cart ml-1"></i></span></a>
 						</p>
 					</div>

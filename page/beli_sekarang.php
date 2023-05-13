@@ -37,13 +37,13 @@ if (!empty($_id)) {
 									<div class="form-group">
 										<label for="nama_pelanggan">Nama pelanggan:</label>
 										<input class="form-control" type="text" name="nama_pelanggan"
-											id="nama_pelanggan">
+											id="nama_pelanggan" required>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">									
 									<label for="jumlah_beli">Jumlah beli:</label>
-										<input class="form-control" type="number" name="jumlah_beli" id="jumlah_beli">
+										<input class="form-control" type="number" name="jumlah_beli" id="jumlah_beli" required>
 									</div>
 								</div>
 							</div>
@@ -53,20 +53,20 @@ if (!empty($_id)) {
 								<div class="col-md-6">
 									<div class="form-group">
 									<label for="harga_satuan">Harga Satuan:</label>
-										<input class="form-control" type="number" name="harga_satuan" id="harga_satuan">
+										<input class="form-control" type="number" name="harga_satuan" id="harga_satuan" required>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
 									<label for="total_harga">Total harga:</label>
-										<input class="form-control" type="number" name="total_harga" id="total_harga">
+										<input class="form-control" type="number" name="total_harga" id="total_harga" required>
 									</div>
 								</div>
 								<div class="col-md-12">
 									<div class="form-group">
 										<label for="alamat_pelanggan">Alamat pelanggan:</label>
 										<textarea class="form-control" name="alamat_pelanggan"
-											id="alamat_pelanggan"></textarea>
+											id="alamat_pelanggan" required></textarea>
 									</div>
 								</div>
 								<?php
