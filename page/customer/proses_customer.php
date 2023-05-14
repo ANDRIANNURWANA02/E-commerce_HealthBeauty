@@ -26,7 +26,7 @@ if ($_proses == "Simpan") {
     $sql = "INSERT INTO customer (id,name,gender,phone,address,
     email,card_id) VALUES (?,?,?,?,?,?,?)";
 } else if ($_proses == "Update") {
-    $ar_data[] = $_POST['idedit']; // ? 8
+    $ar_data[] = $_POST['id']; // ? 8
     $sql = "UPDATE customer SET id=?,name=?,gender=?,phone=?,
     address=?,email=?,card_id=? WHERE id=?";
 }

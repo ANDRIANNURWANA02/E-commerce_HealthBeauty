@@ -140,10 +140,10 @@ if(!isset($_SESSION['loggedin'])){
 			<div class="container">
 
 				<div class="row justify-content-center mb-3 pb-3">
-					<div class="col-md-12 heading-section text-center ftco-animate">
+				<div class="col-lg-4 text-center d-flex align-self-stretch ftco-animate">
 						<h2 class="mb-4 mt-5">Keunggulan Health&Beauty</h2>
 					</div>
-					<p>
+					<p class="text-center">
 						dalam rangka membantu customer kami menyediakan website e-commers untuk mempermudah dalam
 						berbelanja produk yang kamu idamkan.
 					</p>

@@ -54,20 +54,6 @@ require_once '../templetes/header.php';
 
   <form method="POST" action="proses_order.php">
     <div class="form-group row">
-      <label for="id" class="col-4 col-form-label">id</label>
-      <div class="col-8">
-        <div class="input-group">
-          <div class="input-group-prepend">
-            <div class="input-group">
-              <!-- <i class="fa fa-anchor"></i> -->
-            </div>
-          </div>
-          <input id="id" name="id" type="text" class="form-control" value="<?php if (isset($row['id']))
-            echo $row['id']; ?>" required>
-        </div>
-      </div>
-    </div>
-    <div class="form-group row">
       <label for="order_number" class="col-4 col-form-label">order_number</label>
       <div class="col-8">
         <div class="input-group">
