@@ -59,7 +59,7 @@ require_once './templetes/nav.php';
 						<div class="overlay"></div>
 					</a>
 					<div class="text py-3 px-3">
-						<h3><a href="detail_loreal.php">Loarel Paris Hair Care</a></h3>
+						<h3><a href="detail_loreal.php">Loreal Paris Hair Care</a></h3>
 						<div class="d-flex">
 							<div class="pricing">
 								<p class="price"><span>Rp.190.000</span></p>

@@ -41,9 +41,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
   try {
     $stmt->execute();
-    echo "Registrasi berhasil";
+    echo "<script>
+    alert('Registrasi berhasil');
+    window.location.replace('login.php');
+    </script>";
   } catch (PDOException $e) {
-    echo "Registrasi gagal: " . $e->getMessage();
+    echo "<script>
+    alert('Registrasi gagal')
+    </script>" . $e->getMessage();
   }
 }
 
